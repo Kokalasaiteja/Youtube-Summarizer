@@ -4,3 +4,4 @@ transformers
 easygoogletranslate 
 gradio
 numpy
+nltk
